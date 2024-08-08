@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcqgen
+Version: 0.0.1
+Author: bekiab
+Requires-Dist: openai
+Requires-Dist: streamlit
+Requires-Dist: langchain
+Requires-Dist: Python-dotenv
+Requires-Dist: PyPDF2
