@@ -1,3 +1,3 @@
-from mcqgen import logging
+from src.mcqgenr.logger import logging
 
-logging.onfo("hi")
+logging.info("hi")
